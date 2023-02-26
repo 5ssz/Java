@@ -22,7 +22,8 @@ public class LineaDePuntosFor {
         i = x-1;
     */
     for (int i = 0 ; i < x ; i++) {
-      System.out.print("."); // Imprimimos un punto y un salto de línea.
+      System.out.print("."); // Imprimimos un punto (sin salto de línea)
+      // System.out.println("."); así se imprimiría con salto de línea
     }
   }
 }
