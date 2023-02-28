@@ -1,4 +1,4 @@
-public class if {
+public class EjemploIf {
   public static void main(String[] args) {
     float dinero = 3;
     if (dinero>0) {
