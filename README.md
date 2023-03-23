@@ -1,15 +1,15 @@
 # Java
 Aquí podrás aprender Java
 
-|Completado     | Left columns          | Right columns |
+|Completado     | Título                | Right columns |
 |:-------------:| -------------         |:-------------:|
-|[ ]            | Literales             |[Teoria]() |
-|[]             | Operadores Aritméticos|[Teoria]()|
-|[ ]            | Operadores Lógicos    |[Teoria]()|
-|[ ]            | Condicionales         |[Teoria]()|
-|[ ]            | Bucles                |[Teoria]()|
-|[ ]            | Arrays                |[Teoria]()|
-|[ ]            | Matrices              |[Teoria]()|
+|[x]            | Literales             |[Teoria]() |
+|[x]             | Operadores Aritméticos|[Teoria]()|
+|[x]            | Operadores Lógicos    |[Teoria]()|
+|[x]            | Condicionales         |[Teoria]()|
+|[x]            | Bucles                |[Teoria]()|
+|[x]            | Arrays                |[Teoria]()|
+|[x]            | Matrices              |[Teoria]()|
 
 [Resumen](https://5ssz.github.io/Java/Resumen)
 [5ssz](https://5ssz.github.io)
