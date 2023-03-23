@@ -3,13 +3,13 @@ Aquí podrás aprender Java!
 
 |Completado| Left columns  | Right columns |
 |:-------------:| ------------- |:-------------:|
-|[]| Literales |[Teoria]()|
+|[ ]| Literales |[Teoria]()|
 |[]| Operadores Aritméticos |[Teoria]()|
-|[]| Operadores Lógicos |[Teoria]()|
-|[]| Condicionales |[Teoria]()|
-|[]| Bucles |[Teoria]()|
-|[]| Arrays |[Teoria]()|
-|[]| Matrices |[Teoria]()|
+|[ ]| Operadores Lógicos |[Teoria]()|
+|[ ]| Condicionales |[Teoria]()|
+|[ ]| Bucles |[Teoria]()|
+|[ ]| Arrays |[Teoria]()|
+|[ ]| Matrices |[Teoria]()|
 
 [Resumen](https://5ssz.github.io/Java/Resumen)
 [5ssz](https://5ssz.github.io)
